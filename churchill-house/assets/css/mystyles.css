@@ -1,0 +1,14 @@
+@font-face {
+    font-family: cooper-hewitt-heavy;
+    src: url(../fonts/CooperHewitt-Light.otf);
+}
+
+* {
+    font-family: cooper-hewitt-heavy;
+ }
+
+.blackborder{
+    background-color: black;
+    color: white;
+    padding: 5px 50px;
+}
